@@ -1,0 +1,9 @@
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/config/PersistenceConfiguration.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/SpeakersController.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SpeakerRepository.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Session.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/ConferenceDemoApplication.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Speaker.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/SessionsController.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/HomeController.java
+/Volumes/DATA/IdeaProjects/conference-demo/conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SessionRepository.java
